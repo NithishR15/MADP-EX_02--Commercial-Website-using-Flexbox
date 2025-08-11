@@ -340,8 +340,11 @@ body {
 
 
 ## OUTPUT
+<img width="1910" height="713" alt="Screenshot 2025-08-11 134448" src="https://github.com/user-attachments/assets/bfe7c411-ae3b-42c5-8ce6-778a6ab745a0" />
+<img width="1918" height="973" alt="Screenshot 2025-08-11 134506" src="https://github.com/user-attachments/assets/f0324f85-44f1-47a2-94b4-b864f3acc190" />
+<img width="1918" height="963" alt="Screenshot 2025-08-11 134528" src="https://github.com/user-attachments/assets/bdef459f-70cd-4c10-8a13-cd26fad3e91e" />
 
-![alt text](output.png)
+
 
 ## RESULT
 
